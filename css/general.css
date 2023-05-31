@@ -72,6 +72,14 @@ max-width: 250px;
 margin: auto;
 }
 
+/*
+.h1_home{
+	font-size: 12vw;
+	font-family: arvo;
+	font-weight: 60vw;
+	letter-spacing: 6px;
+}
+*/
 .h1_home{
 	font-size: 80px;
 	font-family: arvo;
